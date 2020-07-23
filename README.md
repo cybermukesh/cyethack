@@ -22,3 +22,25 @@ There is a help button at the bottom of each page, which allows you to view hint
 We do not take responsibility for the way in which any one uses this application (CYTHACK). We have made the purposes of the application clear and it should not be used maliciously. We have given warnings and taken measures to prevent users from installing CYTHACK on to live web servers. If your web server is compromised via an installation of CYTHACK it is not our responsibility it is the responsibility of the person/s who uploaded and installed it.
 
 Cythack aims to cover the most commonly seen vulnerabilities found in today's web applications. However there are plenty of other issues with web applications.
+
+
+# Instructions
+
+## 1. How to perform the Chanllenges in Cythack:
+
+> We will provide Login Credentials then only users can acess it.
+> After that you will login the Cybthack to perform the task.
+> We have given you three types of level of security:
+*Low
+*Medium
+*High
+> So on basic of findings we will take your report or POC (Proof of Concept).
+> On according to your report and number of findings we will eveluate your performance.
+> Then we will decide the winners.
+
+## 2. Winners will get prices:
+
+> First winner will get full 100% scholarship from Cyber Security Society (NGO).
+> After that best 5 winners will get 3 months of full Internship at Techtwins Technologies LLP.
+> It will be unpaid and no cost will be charges by the Company.
+> Furhter more information regarding the internhsip will be provided in the Internship Offer Letter. 
