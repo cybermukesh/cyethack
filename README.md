@@ -44,3 +44,32 @@ Cythack aims to cover the most commonly seen vulnerabilities found in today's we
 > After that best 5 winners will get 3 months of full Internship at Techtwins Technologies LLP.
 > It will be unpaid and no cost will be charges by the Company.
 > Furhter more information regarding the internhsip will be provided in the Internship Offer Letter. 
+
+# Installation Guide
+
+## Steps are follow below:
+
+### Step - 1: Install  XAMPP server in your local computer.
+> Follow this link to download it: https://www.apachefriends.org/download.html
+
+### Step - 2: After Installation Done.
+> Now install the "hello.zip" file given in the github link. 
+https://github.com/mukesh420/cyethack/blob/master/hello.zip  download this.
+
+### Step - 3: Now go to directory C:\Xammp\htdocs\ and delete all files whatever we have.
+
+### Step - 4: Now unzip the "hello.zip" file in the "C:\Xampp\htdocs\hello"
+
+### Step - 5: Now open the Xampp Controller and Start "Apache" and "MYSQL" service on.
+
+### Step - 6: Open "MYSQL" admin button and go to New Database Creation
+Do give "hello" name of database and create it.
+
+### Step - 7: Now open "Apache" admin page and you will get the login Page of the "Cyethack CTF"
+
+### Step - 8: Now start the challenges
+
+### Step - 9: Do solve the chanlleges and take screenshot and make a docs file report for the evaluation of the CTF chanllenges for the result.
+
+
+# ALL THE BEST! 
